@@ -1,0 +1,1 @@
+// A ideia do projeto é fornecer uma "documentação" para ajudar desenvolvedores de outras linguagens a migrarem para frameworks que utilizam javascript
